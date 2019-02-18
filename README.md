@@ -1,2 +1,0 @@
-# ColorSampler
-Created with CodeSandbox
